@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F228FE5B-3268-47A7-84B8-00DD6E7361EB}</ProjectGuid>
+    <ProjectGuid>{CD417A3F-493B-4AE1-8C14-EDC4535F7682}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Homework1</RootNamespace>
+    <RootNamespace>Homework2</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="순수가우스_상하행렬.c" />
+    <ClCompile Include="부분피봇팅_상하행렬.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

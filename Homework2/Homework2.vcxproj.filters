@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="순수가우스_상하행렬.c">
+    <ClCompile Include="부분피봇팅_상하행렬.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
